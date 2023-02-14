@@ -1,5 +1,7 @@
 # EasyLearning Landing Page Project
 
+![Website Preview](./website.PNG)
+
 This project is a landing page for EasyLearning, an online course company that teaches Ecommerce, web design, and web development.
 
 ## Technologies Used

@@ -52,12 +52,5 @@ The `Contact Us` section provides users with a form to contact the company direc
 ## Credits
 The React JS portion of this project was inspired by the [React with Laravel course](https://www.udemy.com/course/react-with-laravel-build-complete-project/) on Udemy.
 
-## Contributing
-
-If you would like to contribute to this project, please submit a pull request or contact us at `dev@easylearning.com`.
-
-## Support
-
-If you have any questions or issues with this project, please reach out to us via email at `support@easylearning.com`.
 
 Happy coding!

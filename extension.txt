@@ -1,0 +1,16 @@
+npm install react-bootstrap bootstrap
+
+npm i --save @fortawesome/fontawesome-svg-core
+npm install --save @fortawesome/free-solid-svg-icons
+npm install --save @fortawesome/free-brands-svg-icons
+npm install --save @fortawesome/react-fontawesome
+
+npm i react-countup
+
+npm i react-visibility-sensor
+
+npm install --save video-react react react-dom
+
+npm install ityped
+
+npm install react-router-dom@5.2.0
